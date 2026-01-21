@@ -1,0 +1,7 @@
+{
+  "name": "Vòng Quay Học Tập - VanHai Education",
+  "description": "An interactive study game featuring a customizable spinning wheel, millionaire-style quizzes, and educational content management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
